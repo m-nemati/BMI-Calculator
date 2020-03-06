@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calc BMI</string>
+    <string name="calcBtn">محاسبه BMI</string>
+    <string name="moreBmi">درباره BMI</string>
+    <string name="aboutMe">SchoolHelp.ir</string>
+    <string name="btnBack">بازگشت</string>
+</resources>
